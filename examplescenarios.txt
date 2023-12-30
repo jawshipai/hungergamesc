@@ -1,0 +1,101 @@
+2#@p and @p find a hidden stash of supplies. They fight over it, and @w takes it all.
+3#@p, @p, and @p are trapped in a cave. A sudden collapse leaves only @w and @w alive.
+1#@r discovers a secret passage...
+1#@r finds a hidden cache of medical supplies...
+1#@r stumbles upon a camouflaged shelter with food and water... luckily it's abandoned and they grab some supplies.
+2#@p stumbles upon a camouflaged shelter with food and water... but suddenly @p attacks them! They fight and @w wins.
+2#@r stumbles upon a camouflaged shelter with food and water... but suddenly @r attacks them! They fight with no clear winner.
+1#@r is freaking out.
+2#@p and @p encounter each other and start fighting and @w wins!
+2#@r and @r encounter each other and make a truce.
+1#@r is questioning why they joined the games.
+1#@r finds a source of drinkable water.
+2#@r and @r set up camp together.
+1#@r can't seem to find any food...
+1#@r sees a forked path and goes left.
+1#@r sees a forked path and goes right.
+1#@r successfully makes a fire!
+2#@p is drinking water by a pond when @p comes from behind and attacks them! @w wins!
+2#@p and @p play rock paper scissors, loser takes all. @w wins.
+2#@p is walking along a path when @p suddenly attacks them! In the end @w wins...
+1#@r finds the bones of tributes from previous games...
+1#@r sneaks past a pack of savage hounds.
+1#@r is wondering how they're still alive...
+1#@r decides to get some rest in a tree...
+1#@r sets up camp.
+1#@r sees @r walking in the woods and stays hidden
+3#@p and @p decide to pick a fight with @p. After the squabble on @w gets out alive!
+1#@r takes a bath in the pool.
+1#@r discovers a secret message left by a previous tribute...
+1#@r must navigate through a field of landmines... They get through safely.
+1#@l must navigate through a field of landmines... They get blown to smithereens!
+2#@r and @r must navigate from a field of landmines... They both get through safely.
+3#@l and @l must navigate from a field of landmines... They both get blown to smithereens!
+2#@p and @p must navigate from a field of landmines... while they traverse, only @w makes it out alive!
+1#@r finds a mysterious package from an unknown sponsor...
+1#@r witnesses a hovercraft extracting a fallen tribute.
+1#@r is caught in a sudden and dangerous electrical storm...
+1#@r uncovers an underground bunker filled with survival gear.
+1#@r hears a haunting melody that seems to be leading them somewhere...
+1#@r almost steps on a bear trap!
+1#@r must survive a night in extreme cold with limited supplies.
+1#@r sees visions of their past, challenging their mental strength...
+1#@r encounters a strange, seemingly out-of-place artifact in the arena.
+1#@r is forced to hide as drones survey the area...
+1#@r finds a hidden boat on a secret waterway.
+1#@r must cross a treacherous rope bridge over a chasm...
+1#@l drowns in a puddle!
+1#@l hides in a vat of acid and is eliminated!
+1#@r walks past some flowers...
+1#@r discovers a patch of berries, but are they safe to eat? They decide to keep going
+1#@r discovers a patch of berries, but are they safe to eat? They decide to take a bite and it turns out fine.
+1#@l discovers a patch of berries, but are they safe to eat? They decide to take a bite and it's poisoned! They are elimnated!
+1#@r wakes up surrounded by a ring of fire...
+1#@r finds a cryptic map that hints at a safe zone.
+2#@p challenges @p to a duel over resources! They fight and @w emerges victorious.
+2#@r challenges @r to a duel over resources! they are able to negotiate and both live.
+2#@l challenges @l to a duel over resources! They fight and kill one another!
+4#@p, @p, @p, and @p stumble upon a feast, but it's a trap! Only @w and @w escape the explosion.
+5#@l, @l, @l, and @l stumble upon a feast, but it's a trap! They all blow up!
+4#@r, @r, @r, and @r stumble upon a feast -- there's a trap but they notice it! Everybody lives.
+2#@r and @r form a temporary alliance...
+1#@r is caught in a deadly storm...
+3#@r and @r witness @l get stuck in a trap... they decide to leave them to die. 
+3#@r and @r witness @r get stuck in a trap... they decide to help them get out! 
+2#@p and @p discover an abandoned camp with supplies. They decide to share, but then @w stabs them in the back!
+2#@r and @r discover an abandoned camp with supplies. They decide to share.
+3#@p, @p, and @p are chased by wild animals. In the chaos, only @w manages to survive.
+3#@p, @p, and @p are chased by wild animals. In the chaos, @w and @w manage to survive.
+1#@r finds a mysterious map...
+4#@p, @p, @p, and @p are surrounded by a raging fire. They run to escape it, but only @w survives.
+4#@p, @p, @p, and @p are surrounded by a raging fire. They run to escape it, but only @w and @w survive.
+4#@p, @p, @p, and @p are surrounded by a raging fire. They run to escape it, and @w, @w, and @w make it out.
+5#@l, @l, @l, and @l are surrounded by a raging fire. They run to escape it, but all end up in flames!
+1#@r accidentally triggers a hidden trap... but they dodge it at the last second.
+1#@l accidentally triggers a hidden trap... and they unfortunately don't dodge it! They are eliminated!
+2#@r and @r spot a drone delivering supplies. They race to it, but neither can catch up to get it.
+3#@p, @p, and @p encounter a hostile group. In the ensuing fight, @w and @w emerge as the victors.
+1#@r stumbles upon a luxurious feast, but is it safe? They decide to ignore it and keep going.
+1#@l stumbles upon a luxurious feast, but is it safe? They take a bite... it's poisoned and they are eliminated!
+1#@r stumbles upon a luxurious feast, but is it safe? They take a bite... and it seems to be good! They eat to their hearts content.
+2#@r and @r stumble upon a luxurious feast, but is it safe? They decide to ignore it and keep going.
+3#@l and @l stumble upon a luxurious feast, but is it safe? They both take a bite... and it's poisoned! They are both eliminated!
+2#@p and @p stumble upon a luxurious feast, but is it safe? They both take a bite... and it's poisoned, but somehow @w survives and keeps going.
+2#@r and @r stumble upon a luxurious feast, but is it safe? They both take a bite... and it seems to be good! They eat to their hearts content.
+2#@l and @l are lost in a maze. After many hours they are unable to find their way out and perish...
+2#@p and @p are lost in a maze. @w eventually finds the way out, leaving behind their comrade.
+2#@r and @r are lost in a maze. They work together to get out!
+1#@r discovers an abandoned weapon...
+5#@l, @l, @l, and @l find themselves in a field of poisonous plants. They are too busy fighting and the gas puts them all to sleep!
+4#@p, @p, @p, and @p find themselves in a field of poisonous plants. After a struggle, @w manages to escape unharmed.
+4#@p, @p, @p, and @p find themselves in a field of poisonous plants. After a struggle, @w and @w manages to escape unharmed.
+4#@p, @p, @p, and @p find themselves in a field of poisonous plants. After a struggle, @w, @w, and @w manages to escape unharmed.
+4#@r, @r, @r, and @r find themselves in a field of poisonous plants. They form an unlikely alliance and escape together!
+1#@r finds a hidden underground bunker...
+3#@l and @l encounter a wild animal. After a fierce battle, they both succumb to the animals clutches!
+2#@p and @p encounter a wild animal. After a fierce battle, only @w manages to escape it.
+2#@r and @r encounter a wild animal. After a fierce battle, both work together to escape it.
+4#@l, @l, and @l are caught in a torrential rainstorm. Floods ensue, and they are all swept away!
+3#@p, @p, and @p are caught in a torrential rainstorm. Floods ensue, but only @w finds high ground.
+3#@p, @p, and @p are caught in a torrential rainstorm. Floods ensue, but @w and @w find high ground.
+3#@r, @r, and @r are caught in a torrential rainstorm. Floods ensue, and everyone is able to find high ground.
